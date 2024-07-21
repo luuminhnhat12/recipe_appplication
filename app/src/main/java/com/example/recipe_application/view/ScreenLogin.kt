@@ -1,4 +1,4 @@
-package com.example.recipe_application.viewmodel
+package com.example.recipe_application.view
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
