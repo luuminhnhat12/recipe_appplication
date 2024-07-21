@@ -56,8 +56,8 @@
                 android:background="@drawable/custom_boder_text_login"
                 android:ems="10"
                 android:hint="Email"
-                android:textAlignment="center"
-                android:inputType="textEmailAddress" />
+                android:inputType="textEmailAddress"
+                android:textAlignment="center" />
 
             <EditText
                 android:id="@+id/editTextTextPassword"
@@ -173,6 +173,7 @@
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
                     android:text="Sign up"
+                    android:layout_marginLeft="12dp"
                     android:textColor="@color/red"
                     android:textSize="16sp" />
             </LinearLayout>
