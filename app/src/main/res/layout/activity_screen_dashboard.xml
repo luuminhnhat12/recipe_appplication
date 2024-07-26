@@ -56,10 +56,10 @@
         app:srcCompat="@drawable/settings" />
 
     <EditText
-        android:id="@+id/editTextText"
-        android:layout_width="265dp"
+        android:id="@+id/edtSearch"
+        android:layout_width="260dp"
         android:layout_height="56dp"
-        android:layout_marginStart="72dp"
+        android:layout_marginStart="77dp"
         android:layout_marginBottom="588dp"
         android:background="@drawable/custom_border_text_search"
         android:drawableRight="@drawable/search_icon"
@@ -110,7 +110,32 @@
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintStart_toStartOf="parent" />
 
-<!--    <ScrollView-->
+    <TextView
+        android:id="@+id/textView3"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="16dp"
+        android:layout_marginBottom="428dp"
+        android:text="Today's best food"
+        android:textSize="23dp"
+        android:textStyle="bold"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintStart_toStartOf="parent" />
+
+    <TextView
+        android:id="@+id/textView10"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="316dp"
+        android:layout_marginBottom="430dp"
+        android:text="View all"
+        android:textColor="#F44336"
+        android:textSize="16dp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintStart_toStartOf="parent" />
+
+
+    <!--    <ScrollView-->
 <!--        app:layout_constraintBottom_toBottomOf="parent"-->
 <!--        app:layout_constraintStart_toStartOf="parent"-->
 <!--        android:layout_width="409dp"-->
