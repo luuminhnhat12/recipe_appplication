@@ -93,6 +93,7 @@
             android:layout_marginStart="64dp"
             android:layout_marginBottom="496dp"
             android:background="@drawable/custom_buttom_dashboard"
+            android:drawableLeft="@android:drawable/ic_lock_idle_alarm"
             android:padding="5dp"
             android:text="Time"
             app:layout_constraintBottom_toBottomOf="parent"
