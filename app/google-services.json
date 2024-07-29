@@ -1,13 +1,13 @@
 {
   "project_info": {
-    "project_number": "95251657697",
-    "project_id": "chat-597f1",
-    "storage_bucket": "chat-597f1.appspot.com"
+    "project_number": "1051308277655",
+    "project_id": "recipe-food-ac48a",
+    "storage_bucket": "recipe-food-ac48a.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:95251657697:android:45ca5c133725b09c80d8a0",
+        "mobilesdk_app_id": "1:1051308277655:android:05d32f754766d451028ed2",
         "android_client_info": {
           "package_name": "com.example.recipe_application"
         }
@@ -15,7 +15,7 @@
       "oauth_client": [],
       "api_key": [
         {
-          "current_key": "AIzaSyDtKFJOx-G1p1mKBKNt9cTpmjcGgLzEfrI"
+          "current_key": "AIzaSyBz08UF8ZkDxfirQCcKr0vnAFvJobjr0g8"
         }
       ],
       "services": {
